@@ -1,2 +1,6 @@
-# svnignore
-ignoring the files in .svnignore rather than setting "propset svn:ignore" for it.
+# 配置文件
+
+### SVN
+
+- 忽略文件：`svn propset svn:ignore -F .svnignore .`
+
